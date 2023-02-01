@@ -1,0 +1,9 @@
+#!/bin/bash
+
+DIR="/private/home/samchsia/data"
+
+mkdir -p $DIR
+cd $DIR
+curl -OL https://ndownloader.figshare.com/files/10082655
+tar -xzf 10082655
+rm 10082655

@@ -1,5 +1,5 @@
-Deep Learning Recommendation Model for Personalization and Recommendation Systems:
-=================================================================================
+(Adapted from Original DLRM Repository) Deep Learning Recommendation Model for Personalization and Recommendation Systems:
+=========================================================================================================================
 *Copyright (c) Facebook, Inc. and its affiliates.*
 
 Description:
