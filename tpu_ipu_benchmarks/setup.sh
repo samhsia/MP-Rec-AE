@@ -1,0 +1,1 @@
+export PYTHONPATH='/private/home/samchsia/MP-Rec-AE/tpu_ipu_benchmarks'

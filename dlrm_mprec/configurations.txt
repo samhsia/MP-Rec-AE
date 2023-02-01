@@ -14,6 +14,9 @@
 # --dhe-k={2, 2048} # larger k = more encoder hash functions.
 # --dhe-mlp-dims={k-16, k-512-256-16} # larger mlp-dims = larger decoder mlp stacks.
 
+# First Run Command to try (from original DLRM repository):
+python dlrm_s_pytorch.py --mini-batch-size=2 --data-size=6 
+
 # Example Run Commands (using Kaggle configuration that is built into parser as defaults)
 python dlrm_s_pytorch.py --num-batches=100 --mini-batch-size=16 --embedding-representation 'dhe' --print-time
 python dlrm_s_pytorch.py --num-batches=100 --mini-batch-size=16 --embedding-representation 'dhe' --use-gpu --print-time
